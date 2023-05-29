@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnan-ubuntu
 - 👀 I’m interested in web development, devops and artificial intelligence
-- 🌱 I’m currently learning data science and data analytics
+- 🌱 I’m currently learning various web development frameworks
 - 💞️ I’m looking to collaborate on anything. Eager to learn and work
 - 📫 How to reach me krishnan.ubuntu@gmail.com
 
