@@ -1,3 +1,7 @@
+# Hey! I'm Krishnan
+
+## 💁‍♂️ Few things about me 
+
 - 👋 Hi, I’m @krishnan-ubuntu
 
 - 🛠 Specialized in Full stack development, Infrastructure Management and Machine Learning
